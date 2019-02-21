@@ -48,3 +48,13 @@ I will need to figure out how to incorporate and compile C# code into the game, 
 ## About the Developer
 
 I'm a 3rd year Game Design and Development major and French minor. I enjoy Unity, making game art, and programming using C#, Java, and C++. I'm skilled in Photoshop, After Effects, Illustrator, FL Studio, and Visual Studio.
+
+# Documentation
+
+## Resources used
+
+[W3Schools](https://www.w3schools.com/css/default.asp)
+
+[Google Fonts]("https://fonts.googleapis.com/css?family=Bubblegum+Sans")
+
+[Hook image](https://www.westechrigging.com/shank-hook-crosby-1024965.html)
