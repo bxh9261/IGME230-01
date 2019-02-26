@@ -55,7 +55,7 @@ I'm a 3rd year Game Design and Development major and French minor. I enjoy Unity
 
 [W3Schools](https://www.w3schools.com/css/default.asp)
 
-[Google Fonts]("https://fonts.googleapis.com/css?family=Bubblegum+Sans")
+[Google Fonts]("https://fonts.google.com/specimen/Bubblegum+Sans")
 
 [Hook image](https://www.westechrigging.com/shank-hook-crosby-1024965.html)
 
