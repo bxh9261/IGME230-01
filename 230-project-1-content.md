@@ -55,6 +55,16 @@ I'm a 3rd year Game Design and Development major and French minor. I enjoy Unity
 
 [W3Schools](https://www.w3schools.com/css/default.asp)
 
-[Google Fonts](https://fonts.googleapis.com/css?family=Bubblegum+Sans)
+[Google Fonts]("https://fonts.googleapis.com/css?family=Bubblegum+Sans")
 
 [Hook image](https://www.westechrigging.com/shank-hook-crosby-1024965.html)
+
+[Stack Overflow](https://stackoverflow.com/questions/30696662/css-flexbox-for-2-column-and-3-column-on-desktop-and-mobile-wrap)
+
+## Project Requirements
+
+Each of the four pages of this website can be navigated to using the navigation bar on the top of the page. The index page contains a brief overview of the game, as well as the title and tagline. The proposal page includes all of the information asked for in the template for a game proposal, and also has two images. The documentation page (you are here) lists resources used for both tutorials and for images, as well as a description of the project requirements met and the process. The game page is in the same format as the other pages but is currently a placeholder. Basic mobile-friendly adaptation is implemented, and some CSS rules used include font changes, buttons for the navigation bar, flexbox, margins, and backgrounds.
+
+## Process
+
+This website went through a few stages of design before coming into its current state. The original design was a bit more simplistic, with a white background and basic css rules used. I did a complete overhaul of the CSS document since the first one I made was disorganized which made it very hard to make changes to when necessary. I also worked on properly indenting all of my code which I didn't originally have completely set up when presenting my rough draft. I struggled a bit with flex box trying to get the layout to cooperate and look how I wanted but I managed to get everything into its proper location.
